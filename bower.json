@@ -8,7 +8,7 @@
     "front-end",
     "web"
   ],
-  "homepage": "https://github.com/fndmiranda/jtruncate",
+  "homepage": "https://github.com/fndmiranda/jTruncate",
   "main": "dist/truncate.js",
   "ignore": [],
   "dependencies": {
