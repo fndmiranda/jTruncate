@@ -30,6 +30,3 @@ Lorem ipsum dolor sit amet, consectetur adipisicin...
 
 ## Requirements
 * jQuery 1.7+
-
-## License
-Copyright (c) 2015 [Fernando Miranda](fernando@projeteweb.com.br), released under the MIT License.
