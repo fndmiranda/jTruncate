@@ -1,0 +1,16 @@
+{
+  "name": "jquery-truncate",
+  "description": "Simple text truncate with options by show full text in templates",
+  "version": "0.8.0",
+  "keywords": [
+    "jquery",
+    "truncate",
+    "front-end",
+    "web"
+  ],
+  "homepage": "https://github.com/fndmiranda/jquery-truncate",
+  "main": "dist/jquery.truncate.js",
+  "dependencies": {
+    "jquery": ">= 1.7.1"
+  }
+}
