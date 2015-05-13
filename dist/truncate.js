@@ -1,5 +1,5 @@
 /*!
- * Truncate - jQuery Plugin
+ * jTruncate - jQuery Plugin
  * version: 0.8.0
  * @requires jQuery v1.7 or later
  *

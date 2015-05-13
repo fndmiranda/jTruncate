@@ -1,4 +1,4 @@
-# jQuery Truncate
+# jQuery jTruncate
 
 Simple text truncate with options by show full text in templates
 
