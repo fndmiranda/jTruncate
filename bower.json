@@ -1,7 +1,7 @@
 {
   "name": "jTruncate",
   "description": "Simple text truncate with options by show full text in templates",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "keywords": [
     "jquery",
     "truncate",

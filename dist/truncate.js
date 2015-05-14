@@ -1,6 +1,6 @@
 /*!
  * jTruncate - jQuery Plugin
- * version: 0.8.0
+ * version: 0.8.1
  * @requires jQuery v1.7 or later
  *
  * Copyright 2015 Fernando Miranda - fernando@projeteweb.com.br
@@ -40,6 +40,10 @@
         				trigger: settings.trigger,
         				content: text,
         				placement: settings.placement
+        			}).on('shown.bs.popover', function() {
+        				that.addClass('truncate-full-open');
+        			}).on('hidden.bs.popover', function () {
+        				that.removeClass('truncate-full-open');
         			});
         			break;
         		default:
