@@ -2,6 +2,10 @@
 
 Simple text truncate with options by show full text in templates
 
+## Installing
+
+* [Bower](http://bower.io/): `bower install jtruncate`
+
 ## Usage
 
 HTML:
