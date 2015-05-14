@@ -4,7 +4,11 @@ Simple text truncate with options by show full text in templates
 
 ## Installing
 
-* [Bower](http://bower.io/): `bower install jtruncate`
+* [Bower](http://bower.io/):
+
+```console
+$ bower install jtruncate
+```
 
 ## Usage
 
